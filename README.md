@@ -3,9 +3,13 @@
 
   Olá! Eu sou Edu, um estudante de Análise e Desenvolvimento de Sistemas. Desde que comecei a explorar o mundo da computação, tenho me cativado com a forma como a tecnologia pode transformar o nosso cotidiano e resolver problemas complexos.
 
-![Snake Image](https://raw.githubusercontent.com/viniciusrochalima/viniciusrochalima/main/images/snake.svg)
-
 </div><br/>
+
+<div align="center">
+
+![rain in pain](https://github.com/no-rick/no-rick/blob/main/pain.gif)
+
+</div> <br/>
 
 ## Meus links
 <div style="display: inline_block">
