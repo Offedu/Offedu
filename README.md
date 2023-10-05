@@ -85,5 +85,4 @@
 </a>
 <br>
 <strong>How create REACTAPP</strong>
-<a href="https://www.freecodecamp.org/portuguese/news/como-criar-um-projeto-em-react-com-o-create-react-app-em-10-passos/" rel="nofollow">https://www.freecodecamp.org/portuguese/news/como-criar-um-projeto-em-react-com-o-create-react-app-em-10-passos/</a>
-
+<a href="https://create-react-app.dev/docs/getting-started" rel="nofollow">https://create-react-app.dev/docs/getting-started</a>
