@@ -84,4 +84,6 @@
 <a href="https://tailwinduikit.com/components/E-commerce/Components/carousels" rel="nofollow">https://tailwinduikit.com/components/E-commerce/Components/carousels
 </a>
 <br>
+<strong>How create REACTAPP</strong>
+<a href="https://www.freecodecamp.org/portuguese/news/como-criar-um-projeto-em-react-com-o-create-react-app-em-10-passos/" rel="nofollow">https://www.freecodecamp.org/portuguese/news/como-criar-um-projeto-em-react-com-o-create-react-app-em-10-passos/</a>
 
